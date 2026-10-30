@@ -6,10 +6,10 @@ def tampil():
 
     # (logo, nama, persen)
     skill = [
-        ("logo/python.png", "Python", 50),
-        ("logo/word.png", "Microsoft Word", 85),
-        ("logo/excel.png", "Microsoft Excel", 70),
-        ("logo/html.png", "HTML dan CSS", 40),
+        ("navigation/logo/python.png", "Python", 50),
+        ("navigation/logo/word.png", "Microsoft Word", 85),
+        ("navigation/logo/excel.png", "Microsoft Excel", 70),
+        ("navigation/logo/html.png", "HTML dan CSS", 40),
     ]
 
     for logo, nama, persen in skill:
